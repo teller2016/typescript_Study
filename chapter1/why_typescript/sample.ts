@@ -1,5 +1,5 @@
-function sum(a: number, b: number): number {
+function typescriptSum(a: number, b: number): number {
     return a + b;
 }
-let result = sum(10, 20);
+let result = typescriptSum(10, 20);
 result.toLocaleString();
